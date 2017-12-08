@@ -1,3 +1,3 @@
 # Bob Whitehead
-#### Bob's Bio
-[a link](http://wampage.com/BobBio)
+
+[Bob's Bio](http://wampage.com/BobBio)
